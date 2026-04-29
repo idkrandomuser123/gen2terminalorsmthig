@@ -3,6 +3,9 @@
 terminal yay
 python nooo bro bad
 
+### Notes
+you dont have to use with root purposes i was joking dw
+
 ## features
 
 * user login system

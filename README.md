@@ -1,4 +1,2 @@
 # gen2terminalorsmthig
-```python
-print("hello")
-```
+### some shell i made for like no reason

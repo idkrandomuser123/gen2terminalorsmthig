@@ -1,12 +1,44 @@
-# gen2terminalorsmthig
-some shell i made for like no reason
+# gen2terminal
 
-## Installation
-Windows: go to releases tab \n
-Linux support soon
-
-## Commands
-Use help for a list of commands
+A small Python-based fake terminal I made for fun. It includes a simple login system and a few basic commands.
 
 ## Features
-None useful but cool info command ig thats something right right
+
+* user login system
+* hidden password input
+* basic terminal commands
+* cross-platform clear command
+
+## Installation
+
+### Windows
+
+Go to the **Releases** tab and download the script.
+
+### Linux
+
+Coming soon.
+
+## Usage
+
+Run the script and follow the setup prompts.
+
+## Commands
+
+* `help` – show command list
+* `info` – system info
+* `info.user` – show user info
+* `clear` – clear screen
+* `exit` – exit terminal
+
+## Notes
+
+This is just a learning project and not a real shell, but it works well enough for experimenting.
+
+---
+
+## Future Ideas
+
+* file system simulation (`ls`, `cd`)
+* saving user accounts
+* more commands

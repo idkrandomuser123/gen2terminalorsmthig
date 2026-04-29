@@ -2,7 +2,7 @@
 some shell i made for like no reason
 
 ## Installation
-Windows: go to releases tab
+Windows: go to releases tab \n
 Linux support soon
 
 ## Commands
